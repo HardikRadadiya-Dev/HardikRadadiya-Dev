@@ -3,16 +3,16 @@
 </div>
 
 <div align="center">
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://twitter.com/hardik_rad34443">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/hardikradadiya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO.com">
+  <a href="https://hardikradadiya.live">
     <img src="https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=google-chrome&logoColor=00d4ff"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:hardikradadiya.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="tel:+919586415379">
